@@ -13,7 +13,6 @@ Dokumen ini berisi panduan instalasi:
 - Autologin LightDM  
 - Autorun GUI  
 
-Semua langkah telah diuji dan dipastikan berfungsi untuk sistem produksi.
 
 ## 📦 1. Persiapan Sistem
 Pastikan sistem menggunakan:
@@ -237,12 +236,5 @@ Reboot Total:
 sudo reboot
 ```
 
-Sistem siap digunakan.
-
-## 🔧 Troubleshooting
-- RViz tidak menampilkan point cloud → set Fixed Frame: `livox_frame`
-- rclpy error → reinstall setelah source ROS2
-- liblivox_sdk_shared.so hilang → tambahkan LD_LIBRARY_PATH
-
 ## 📄 Lisensi
-Dokumen ini digunakan untuk implementasi sistem deteksi LiDAR MID360 di lingkungan operasional Pertamina & Project Kita.
+Dokumen ini digunakan untuk implementasi sistem deteksi LiDAR MID360 di lingkungan Project Kita.
