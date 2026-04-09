@@ -3,7 +3,7 @@
 **Device:** Livox MID360
 
 ## 📘 Overview
-Dokumen ini berisi panduan lengkap instalasi:
+Dokumen ini berisi panduan instalasi:
 
 - ROS2 Humble  
 - Livox SDK2  
